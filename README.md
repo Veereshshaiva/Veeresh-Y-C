@@ -24,7 +24,7 @@
 
 <div align="center">
 
-# 👋 Hi there, &lt; devs /&gt;
+# 👋 Hi there, Veeresh;
 
 ### 💻 Full Stack Developer | 🤖 AI & ML Enthusiast
 
